@@ -1,0 +1,23 @@
+.buttoncolor
+{
+	background-color: red;
+	color: white;
+	margin-left: 208px;
+}
+#totalcost
+{
+	color: white;
+	background-color:green;
+	margin-left:  277px;
+}
+.buttoncolor1
+{
+	background-color: red;
+	color: white;
+	margin-left: 51px;
+}
+.grid
+{
+	display: grid;
+	grid-template-columns: repeat(3,300px);
+}
